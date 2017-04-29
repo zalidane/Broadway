@@ -17,3 +17,13 @@ a{
   font-size: 18px;
   color: white;
 }
+
+.process{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process-section{
+  font-size: 23px;
+  font-weight: bold;
+}
