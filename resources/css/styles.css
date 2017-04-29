@@ -10,7 +10,6 @@ body{
 .heading h1{
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
 
 a{
@@ -26,4 +25,8 @@ a{
 .process-section{
   font-size: 23px;
   font-weight: bold;
+}
+
+.white{
+  color: white;
 }
