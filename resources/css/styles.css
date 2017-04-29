@@ -30,3 +30,9 @@ a{
 .white{
   color: white;
 }
+
+.bottom-nav{
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
